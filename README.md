@@ -23,9 +23,9 @@ A population of women who were at least 21 years old, of **Pima Indian heritage*
 * [edX Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x)
 
 ## Literatura erudita
-* Livro 1
-* Livro 2
-* Livro 3
-* TODO
+* [Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking](http://www.amazon.com/dp/1449361323)
+* [Data Mining: Practical Machine Learning Tools and Techniques](http://www.amazon.com/dp/0128042915)
+* [Machine Learning for Hackers: Case Studies and Algorithms to Get You Started](http://www.amazon.com/dp/B007A0BNP4)
+* [Machine Learning in Action](https://www.amazon.com/dp/1617290181)
 
 > Fiquem ligados no [vitormeriat.com.br](http://www.vitormeriat.com.br), e no meu twitter, [@vitormeriat](https://twitter.com/vitormeriat). Vou criar um post sobre este repositório em breve!
